@@ -222,7 +222,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/Nandan-Bhardwaj",
+      source_code_link: "https://github.com/Nandan-Bhardwaj/3D-Portfolio",
     },
     {
       name: "Voting System",
